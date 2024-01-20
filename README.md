@@ -1,6 +1,8 @@
 # Task for simple import form excel file 
 Simple Project to handle import , build it native and follow up solid
 
+- User Repository and service design pattern
+
 
 ## Requirements
 - php version >=8.0
